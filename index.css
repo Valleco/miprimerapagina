@@ -199,7 +199,7 @@
 
      .footer{
       display: flex;
-      align-items: flex-end;
+      place-content: center;
       height: 200px;
       background-color: black;
      }
